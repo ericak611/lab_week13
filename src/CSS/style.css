@@ -1,8 +1,26 @@
+body {
+    background-color: #e1ebe4;
+} 
 
 h1, h2 {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: #d0e3d6;
+}
+
 .original-container p {
+    font-family: 'Andada Pro', serif;
+}
+
+.original-container {
+    background-color: #d0e3d6;
+}
+
+button {
+    background-color: #e8efea;
     font-family: 'Andada Pro', serif;
 }
